@@ -1,5 +1,5 @@
 # Whelcome to my personal profile
-- 👋 My name is Martini Simone and I'm 21.
+- 👋 My name is Simone and I'm 21.
 - 👀 I’m interested in photography, programming and cybersecurity.
 - 📚 Currently studying Computer Engineering at Polimi and in my free time C# and Unity.
 
